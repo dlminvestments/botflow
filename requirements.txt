@@ -1,4 +1,4 @@
-aiohttp==3.7.4
-beautifulsoup4
+
 lxml
 graphviz==0.16
+beautifulsoup4
