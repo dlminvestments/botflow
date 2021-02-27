@@ -1,1 +1,4 @@
 
+lxml
+graphviz==0.16
+beautifulsoup4
